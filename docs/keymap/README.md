@@ -9,7 +9,7 @@ Open any of the HTML files directly in your browser — they're self-contained, 
 | Base | always | letters, home row mods (GUI/ALT/CTRL/SHFT) | [01-base.html](01-base.html) |
 | **DEV** | hold right inner thumb (TAB) | nvim save / quit / hunk-nav / window movement / jumplist | [02-dev.html](02-dev.html) |
 | NAV | hold right thumb (SPC) | arrows (← ↓ ↑ →), PgUp/PgDn, Cmd combos | [03-nav.html](03-nav.html) |
-| SYM | hold left middle thumb (RET) | `:` `;` `{ } [ ]` `* %` and friends | [04-sym.html](04-sym.html) |
+| SYM | hold left inner thumb (RET) | `:` `;` `{ } [ ]` `* %` and friends | [04-sym.html](04-sym.html) |
 | NUM | hold left middle thumb (BSPC) | digits 0-9, brackets, `=` `\` | [05-num.html](05-num.html) |
 | BUTTON | hold Z+X+C (combo) | Bluetooth profiles, bootloader, reset | [keymap.svg](keymap.svg) |
 | GAME | toggle with Q+W+F (combo) | WoW on the left half, plain QWERTY keycodes | [keymap.svg](keymap.svg) |

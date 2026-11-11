@@ -126,8 +126,8 @@ layers:
   - {type: ghost}
   - Ctl+O
   - Ctl+I
-  - '&m_prev_qf'
-  - '&m_next_qf'
+  - '[q'
+  - ']q'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -136,11 +136,11 @@ layers:
   - {t: ▽, type: trans}
   - {type: ghost}
   - {type: ghost}
-  - '&m_save'
-  - '&m_win_left'
-  - '&m_win_down'
-  - '&m_win_up'
-  - '&m_win_right'
+  - :w
+  - win ←
+  - win ↓
+  - win ↑
+  - win →
   - {t: ▽, type: trans}
   - RSHFT
   - RCTRL
@@ -148,11 +148,11 @@ layers:
   - RGUI
   - {type: ghost}
   - {type: ghost}
-  - '&m_quit'
-  - '&m_vsplit'
-  - '&m_hsplit'
-  - '&m_prev_hunk'
-  - '&m_next_hunk'
+  - :q
+  - vsplit
+  - hsplit
+  - '[c'
+  - ']c'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -403,7 +403,7 @@ layers:
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
-  - BT CLR
+  - {type: ghost}
   - BT CLR
   - {t: BT, h: '2'}
   - {t: BT, h: '1'}
@@ -426,7 +426,7 @@ layers:
   - {type: held}
   - {type: held}
   - {t: '&bootloader', type: held}
-  - '&sys_reset'
+  - {type: ghost}
   - {type: ghost}
   - {type: ghost}
   - '&sys_reset'
@@ -521,7 +521,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: ghost}
   - {type: ghost}
-  - '&m_chat'
+  - CHAT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

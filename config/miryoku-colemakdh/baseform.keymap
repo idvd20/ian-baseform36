@@ -421,11 +421,11 @@
         // Number row
         &none  &none  &none  &none  &none  &none     &none  &none  &none  &none  &none  &none
         // Top row
-        &none  &soft_off  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_CLR     &bt BT_CLR  &bt BT_SEL 2  &bt BT_SEL 1  &bt BT_SEL 0  &soft_off  &none
+        &none  &soft_off  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &none          &bt BT_CLR  &bt BT_SEL 2  &bt BT_SEL 1  &bt BT_SEL 0  &soft_off  &none
         // Home row
         &none  &kp LGUI  &kp LALT  &kp LCTRL  &kp LSHFT  &trans     &trans  &kp RSHFT  &kp RCTRL  &kp RALT  &kp RGUI  &none
         // Bottom row
-        &none  &none  &none  &bootloader  &sys_reset  &none     &none  &sys_reset  &bootloader  &none  &none  &none
+        &none  &none  &none  &bootloader  &none       &none     &none  &sys_reset  &bootloader  &none  &none  &none
         // Thumbs
                                 &trans  &trans  &trans     &trans  &trans  &trans
       >;

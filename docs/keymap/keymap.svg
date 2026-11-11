@@ -620,11 +620,11 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(182, 72)" class="key keypos-15">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 70%">&amp;m_prev_qf</tspan></text>
+<text x="0" y="0" class="key tap">[q</text>
 </g>
 <g transform="translate(234, 72)" class="key keypos-16">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 70%">&amp;m_next_qf</tspan></text>
+<text x="0" y="0" class="key tap">]q</text>
 </g>
 <g transform="translate(286, 72)" class="key trans keypos-17">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key trans"/>
@@ -658,23 +658,31 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 120)" class="key keypos-25">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">&amp;m_save</text>
+<text x="0" y="0" class="key tap">:w</text>
 </g>
 <g transform="translate(130, 120)" class="key keypos-26">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;m_win_left</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">win</tspan><tspan x="0" dy="1.2em">←</tspan>
+</text>
 </g>
 <g transform="translate(182, 120)" class="key keypos-27">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;m_win_down</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">win</tspan><tspan x="0" dy="1.2em">↓</tspan>
+</text>
 </g>
 <g transform="translate(234, 120)" class="key keypos-28">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">&amp;m_win_up</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">win</tspan><tspan x="0" dy="1.2em">↑</tspan>
+</text>
 </g>
 <g transform="translate(286, 120)" class="key keypos-29">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;m_win_rig…</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">win</tspan><tspan x="0" dy="1.2em">→</tspan>
+</text>
 </g>
 <g transform="translate(368, 120)" class="key trans keypos-30">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key trans"/>
@@ -704,23 +712,23 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 168)" class="key keypos-37">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">&amp;m_quit</text>
+<text x="0" y="0" class="key tap">:q</text>
 </g>
 <g transform="translate(130, 168)" class="key keypos-38">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">&amp;m_vsplit</tspan></text>
+<text x="0" y="0" class="key tap">vsplit</text>
 </g>
 <g transform="translate(182, 168)" class="key keypos-39">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">&amp;m_hsplit</tspan></text>
+<text x="0" y="0" class="key tap">hsplit</text>
 </g>
 <g transform="translate(234, 168)" class="key keypos-40">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;m_prev_hu…</tspan></text>
+<text x="0" y="0" class="key tap">[c</text>
 </g>
 <g transform="translate(286, 168)" class="key keypos-41">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;m_next_hu…</tspan></text>
+<text x="0" y="0" class="key tap">]c</text>
 </g>
 <g transform="translate(368, 168)" class="key trans keypos-42">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key trans"/>
@@ -1634,11 +1642,8 @@ rect.ghost, rect.combo.ghost { display: none; }
 <text x="0" y="0" class="key tap">BT</text>
 <text x="0" y="20" class="key hold">2</text>
 </g>
-<g transform="translate(286, 72)" class="key keypos-17">
-<rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">BT</tspan><tspan x="0" dy="1.2em">CLR</tspan>
-</text>
+<g transform="translate(286, 72)" class="key ghost keypos-17">
+<rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
 </g>
 <g transform="translate(368, 72)" class="key keypos-18">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
@@ -1727,9 +1732,8 @@ rect.ghost, rect.combo.ghost { display: none; }
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key held"/>
 <text x="0" y="0" class="key held tap"><tspan style="font-size: 64%">&amp;bootloader</tspan></text>
 </g>
-<g transform="translate(234, 168)" class="key keypos-40">
-<rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 70%">&amp;sys_reset</tspan></text>
+<g transform="translate(234, 168)" class="key ghost keypos-40">
+<rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
 </g>
 <g transform="translate(286, 168)" class="key ghost keypos-41">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
@@ -2074,7 +2078,7 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 120)" class="key keypos-25">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">&amp;m_chat</text>
+<text x="0" y="0" class="key tap">CHAT</text>
 </g>
 <g transform="translate(130, 120)" class="key trans keypos-26">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key trans"/>

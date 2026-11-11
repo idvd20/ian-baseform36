@@ -5,6 +5,19 @@ parse_config:
   skip_binding_parsing: false
   raw_binding_map:
     "&none": {type: ghost}
+    "&m_chat": CHAT
+    "&m_save": ":w"
+    "&m_quit": ":q"
+    "&m_win_left": "win ←"
+    "&m_win_down": "win ↓"
+    "&m_win_up": "win ↑"
+    "&m_win_right": "win →"
+    "&m_vsplit": vsplit
+    "&m_hsplit": hsplit
+    "&m_prev_hunk": "[c"
+    "&m_next_hunk": "]c"
+    "&m_prev_qf": "[q"
+    "&m_next_qf": "]q"
   zmk_combo_layer_names: {}
 draw_config:
   key_w: 52
