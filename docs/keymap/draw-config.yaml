@@ -1,0 +1,16 @@
+# keymap-drawer config. Regenerate with:
+#   keymap -c docs/keymap/draw-config.yaml parse -z config/miryoku-colemakdh/baseform.keymap -o docs/keymap/keymap.yaml
+#   keymap -c docs/keymap/draw-config.yaml draw --keys-only --ortho-layout '{"split": true, "rows": 4, "columns": 6, "thumbs": 3}' docs/keymap/keymap.yaml -o docs/keymap/keymap.svg
+parse_config:
+  skip_binding_parsing: false
+  raw_binding_map:
+    "&none": {type: ghost}
+  zmk_combo_layer_names: {}
+draw_config:
+  key_w: 52
+  key_h: 48
+  n_columns: 1
+  append_colon_to_layer_header: false
+  dark_mode: auto
+  svg_extra_style: |
+    rect.ghost, rect.combo.ghost { display: none; }
