@@ -459,11 +459,11 @@ layers:
   - W
   - E
   - R
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - J
+  - L
+  - U
+  - Y
+  - P
   - {type: ghost}
   - {type: ghost}
   - '1'
@@ -471,11 +471,11 @@ layers:
   - S
   - D
   - F
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - M
+  - N
+  - B
+  - I
+  - O
   - {type: ghost}
   - {type: ghost}
   - '2'
@@ -483,18 +483,18 @@ layers:
   - X
   - C
   - V
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - K
+  - H
+  - G
+  - .
+  - /
   - {type: ghost}
   - LSHFT
   - GFN
   - SPACE
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - CHAT
+  - SPACE
+  - ESC
   GFN:
   - {type: ghost}
   - {type: ghost}
@@ -509,7 +509,7 @@ layers:
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
-  - ESC
+  - {t: Game, h: toggle}
   - '3'
   - {t: ▽, type: trans}
   - '4'
@@ -533,7 +533,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: ghost}
   - {type: ghost}
-  - '7'
+  - ESC
   - '8'
   - '9'
   - '0'
@@ -544,7 +544,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: ghost}
-  - {t: Game, h: toggle}
+  - {type: ghost}
   - {type: held}
   - SPACE
   - {t: ▽, type: trans}
@@ -595,7 +595,7 @@ combos:
   l: [Base]
 - p: [13, 14, 15]
   k: {t: Game, h: toggle}
-  l: [Base]
+  l: [Base, Game]
 - p: [37, 38, 39]
   k: Button
   l: [Base]

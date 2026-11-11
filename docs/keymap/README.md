@@ -12,8 +12,8 @@ Open any of the HTML files directly in your browser — they're self-contained, 
 | SYM | hold left inner thumb (RET) | `:` `;` `{ } [ ]` `* %` and friends | [04-sym.html](04-sym.html) |
 | NUM | hold left middle thumb (BSPC) | digits 0-9, brackets, `=` `\` | [05-num.html](05-num.html) |
 | BUTTON | hold Z+X+C (combo) | Bluetooth profiles, bootloader, reset | [keymap.svg](keymap.svg) |
-| GAME | toggle with Q+W+F (combo) | WoW on the left half, plain QWERTY keycodes | [keymap.svg](keymap.svg) |
-| GFN | hold left middle thumb in GAME | number keys 3-0, ESC, chat, exit game mode | [keymap.svg](keymap.svg) |
+| GAME | toggle with Q+W+F (combo, also exits) | WoW on the left half, WoW window keys on the right (J L U Y P / M N B I O / K H G . /), CHAT and ESC on the right thumbs, plain QWERTY keycodes | [keymap.svg](keymap.svg) |
+| GFN | hold left middle thumb in GAME | number keys 3-0, ESC and CHAT on the pinky column, exit game mode (pinky top); right half same as GAME | [keymap.svg](keymap.svg) |
 
 ## Generated image
 
