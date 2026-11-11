@@ -93,7 +93,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        layout: [qwerty, colemak, dvorak, test, miryoku-colemakdh]
+        layout: [miryoku-colemakdh]
         split:  [duo, trio]
 
     steps:
@@ -284,9 +284,6 @@ jobs:
               echo "  - [Duo](https://github.com/${REPO}/releases/download/${TAG}/${layout}_duo-${TAG}.zip)"
               echo "  - [Trio](https://github.com/${REPO}/releases/download/${TAG}/${layout}_trio-${TAG}.zip)"
             }
-            make_group qwerty  "QWERTY"
-            make_group colemak "Colemak"
-            make_group dvorak  "Dvorak"
             make_group miryoku-colemakdh "Miryoku-ColemakDH"
             echo
             echo "$END"

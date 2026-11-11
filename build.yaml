@@ -1,95 +1,13 @@
 include:
-  # --------------------
   # Reset image (utility)
-  # --------------------
   - board: nice_nano_v2
     shield: settings_reset
     artifact-name: _reset
 
-  # ============================================================
-  # QWERTY
-  # ============================================================
-  # Duo split (central)
-  - board: nice_nano_v2
-    shield: baseform_duo_left_central
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/qwerty
-    artifact-name: qwerty_duo_split_left
-
-  # Duo split (right peripheral)
+  # Right peripheral (shared by duo and trio)
   - board: nice_nano_v2
     shield: baseform_any_right_peripheral
     artifact-name: any_right_peripheral
-
-  # Trio split (central)
-  - board: nice_nano_v2
-    shield: "baseform_trio_base_central dongle_display"
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/qwerty
-    artifact-name: qwerty_trio_split_central
-
-  # Trio split (left peripheral)
-  - board: nice_nano_v2
-    shield: baseform_trio_left_peripheral
-    artifact-name: qwerty_trio_split_left
-
-  # ============================================================
-  # COLEMAK
-  # ============================================================
-  - board: nice_nano_v2
-    shield: baseform_duo_left_central
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/colemak
-    artifact-name: colemak_duo_split_left
-
-  - board: nice_nano_v2
-    shield: "baseform_trio_base_central dongle_display"
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/colemak
-    artifact-name: colemak_trio_split_central
-
-  - board: nice_nano_v2
-    shield: baseform_trio_left_peripheral
-    artifact-name: colemak_trio_split_left
-
-
-  # ============================================================
-  # DVORAK
-  # ============================================================
-  - board: nice_nano_v2
-    shield: baseform_duo_left_central
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/dvorak
-    artifact-name: dvorak_duo_split_left
-
-  - board: nice_nano_v2
-    shield: "baseform_trio_base_central dongle_display"
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/dvorak
-    artifact-name: dvorak_trio_split_central
-
-  - board: nice_nano_v2
-    shield: baseform_trio_left_peripheral
-    artifact-name: dvorak_trio_split_left
-
-  # ============================================================
-  # TEST
-  # ============================================================
-  - board: nice_nano_v2
-    shield: baseform_duo_left_central
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/test
-    artifact-name: test_duo_split_left
-
-  - board: nice_nano_v2
-    shield: "baseform_trio_base_central dongle_display"
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DZMK_CONFIG=/tmp/zmk-config/config/test
-    artifact-name: test_trio_split_central
-
-  - board: nice_nano_v2
-    shield: baseform_trio_left_peripheral
-    artifact-name: test_trio_split_left
 
   # ============================================================
   # MIRYOKU-COLEMAKDH (Colemak Mod-DH with FLIP + INVERTEDT)

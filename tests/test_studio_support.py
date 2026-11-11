@@ -11,7 +11,7 @@ def read(path: str) -> str:
 
 
 # Studio enabled in layout configs
-LAYOUTS = ['qwerty', 'colemak', 'dvorak']
+LAYOUTS = ['miryoku-colemakdh']
 
 
 @pytest.mark.parametrize('layout', LAYOUTS)
