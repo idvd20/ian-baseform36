@@ -404,25 +404,23 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 72)" class="key keypos-13">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Gui+Sft</tspan><tspan x="0" dy="1.2em">+Z</tspan>
-</text>
+<text x="0" y="0" class="key tap">⌘⇧Z</text>
 </g>
 <g transform="translate(130, 72)" class="key keypos-14">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">Gui+V</text>
+<text x="0" y="0" class="key tap">⌘V</text>
 </g>
 <g transform="translate(182, 72)" class="key keypos-15">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">Gui+C</text>
+<text x="0" y="0" class="key tap">⌘C</text>
 </g>
 <g transform="translate(234, 72)" class="key keypos-16">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">Gui+X</text>
+<text x="0" y="0" class="key tap">⌘X</text>
 </g>
 <g transform="translate(286, 72)" class="key keypos-17">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">Gui+Z</text>
+<text x="0" y="0" class="key tap">⌘Z</text>
 </g>
 <g transform="translate(368, 72)" class="key trans keypos-18">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key trans"/>
@@ -612,11 +610,11 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 72)" class="key keypos-13">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">Ctl+O</text>
+<text x="0" y="0" class="key tap">⌃O</text>
 </g>
 <g transform="translate(130, 72)" class="key keypos-14">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">Ctl+I</text>
+<text x="0" y="0" class="key tap">⌃I</text>
 </g>
 <g transform="translate(182, 72)" class="key keypos-15">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
@@ -716,11 +714,11 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(130, 168)" class="key keypos-38">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">vsplit</text>
+<text x="0" y="0" class="key tap">vsp</text>
 </g>
 <g transform="translate(182, 168)" class="key keypos-39">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">hsplit</text>
+<text x="0" y="0" class="key tap">sp</text>
 </g>
 <g transform="translate(234, 168)" class="key keypos-40">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
@@ -1549,9 +1547,7 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(576, 168)" class="key keypos-46">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">PAUSE</tspan><tspan x="0" dy="1.2em">BREAK</tspan>
-</text>
+<text x="0" y="0" class="key tap">PAUSE</text>
 </g>
 <g transform="translate(628, 168)" class="key ghost keypos-47">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
@@ -1625,7 +1621,7 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 72)" class="key keypos-13">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">&amp;soft_off</tspan></text>
+<text x="0" y="0" class="key tap">OFF</text>
 </g>
 <g transform="translate(130, 72)" class="key keypos-14">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
@@ -1668,7 +1664,7 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(576, 72)" class="key keypos-22">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">&amp;soft_off</tspan></text>
+<text x="0" y="0" class="key tap">OFF</text>
 </g>
 <g transform="translate(628, 72)" class="key ghost keypos-23">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
@@ -1730,7 +1726,7 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(182, 168)" class="key held keypos-39">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key held"/>
-<text x="0" y="0" class="key held tap"><tspan style="font-size: 64%">&amp;bootloader</tspan></text>
+<text x="0" y="0" class="key held tap">BOOT</text>
 </g>
 <g transform="translate(234, 168)" class="key ghost keypos-40">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
@@ -1743,11 +1739,11 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(420, 168)" class="key keypos-43">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 70%">&amp;sys_reset</tspan></text>
+<text x="0" y="0" class="key tap">RESET</text>
 </g>
 <g transform="translate(472, 168)" class="key keypos-44">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;bootloader</tspan></text>
+<text x="0" y="0" class="key tap">BOOT</text>
 </g>
 <g transform="translate(524, 168)" class="key ghost keypos-45">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key ghost"/>
@@ -2032,9 +2028,7 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(78, 72)" class="key keypos-13">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<a href="#Game">
-<text x="0" y="0" class="key tap layer-activator">Game</text>
-</a><text x="0" y="20" class="key hold">toggle</text>
+<text x="0" y="0" class="key tap">EXIT</text>
 </g>
 <g transform="translate(130, 72)" class="key keypos-14">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>

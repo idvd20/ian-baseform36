@@ -69,11 +69,11 @@ layers:
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
-  - Gui+Sft+Z
-  - Gui+V
-  - Gui+C
-  - Gui+X
-  - Gui+Z
+  - ⌘⇧Z
+  - ⌘V
+  - ⌘C
+  - ⌘X
+  - ⌘Z
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -124,8 +124,8 @@ layers:
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
-  - Ctl+O
-  - Ctl+I
+  - ⌃O
+  - ⌃I
   - '[q'
   - ']q'
   - {t: ▽, type: trans}
@@ -149,8 +149,8 @@ layers:
   - {type: ghost}
   - {type: ghost}
   - :q
-  - vsplit
-  - hsplit
+  - vsp
+  - sp
   - '[c'
   - ']c'
   - {t: ▽, type: trans}
@@ -377,7 +377,7 @@ layers:
   - F1
   - F2
   - F3
-  - PAUSE BREAK
+  - PAUSE
   - {type: ghost}
   - {type: held}
   - {t: ▽, type: trans}
@@ -399,7 +399,7 @@ layers:
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
-  - '&soft_off'
+  - 'OFF'
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
@@ -408,7 +408,7 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '1'}
   - {t: BT, h: '0'}
-  - '&soft_off'
+  - 'OFF'
   - {type: ghost}
   - {type: ghost}
   - LGUI
@@ -425,12 +425,12 @@ layers:
   - {type: ghost}
   - {type: held}
   - {type: held}
-  - {t: '&bootloader', type: held}
+  - {t: BOOT, type: held}
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
-  - '&sys_reset'
-  - '&bootloader'
+  - RESET
+  - BOOT
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
@@ -509,7 +509,7 @@ layers:
   - {type: ghost}
   - {type: ghost}
   - {type: ghost}
-  - {t: Game, h: toggle}
+  - EXIT
   - '3'
   - {t: ▽, type: trans}
   - '4'
@@ -552,28 +552,28 @@ layers:
   - {t: ▽, type: trans}
 combos:
 - p: [25, 39]
-  k: Gui+C
+  k: ⌘C
   l: [Base]
 - p: [34, 39]
-  k: Gui+C
+  k: ⌘C
   l: [Base]
 - p: [25, 41]
-  k: Gui+V
+  k: ⌘V
   l: [Base]
 - p: [34, 41]
-  k: Gui+V
+  k: ⌘V
   l: [Base]
 - p: [25, 38]
-  k: Gui+X
+  k: ⌘X
   l: [Base]
 - p: [34, 38]
-  k: Gui+X
+  k: ⌘X
   l: [Base]
 - p: [25, 37]
-  k: Gui+Z
+  k: ⌘Z
   l: [Base]
 - p: [34, 37]
-  k: Gui+Z
+  k: ⌘Z
   l: [Base]
 - p: [25, 14]
   k: Gui+W
@@ -594,7 +594,7 @@ combos:
   k: Gui+TAB
   l: [Base]
 - p: [13, 14, 15]
-  k: {t: Game, h: toggle}
+  k: EXIT
   l: [Base, Game]
 - p: [37, 38, 39]
   k: Button
