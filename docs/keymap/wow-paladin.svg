@@ -28,10 +28,10 @@ text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #1
 <text x="470" y="85" class="k">R</text>
 <text x="516.0" y="103.5" class="s" text-anchor="middle">Holy</text>
 <text x="516.0" y="118.5" class="s" text-anchor="middle">Strike</text>
-<rect x="24" y="140" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="24" y="140" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
 <text x="30" y="153" class="k">1</text>
-<text x="76.0" y="171.5" class="s" text-anchor="middle">Holy</text>
-<text x="76.0" y="186.5" class="s" text-anchor="middle">Light</text>
+<text x="76.0" y="171.5" class="s" text-anchor="middle">Food /</text>
+<text x="76.0" y="186.5" class="s" text-anchor="middle">drink</text>
 <rect x="134" y="140" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="140" y="153" class="k">A</text>
 <text x="186.0" y="179.0" class="s" text-anchor="middle">Strafe ←</text>
@@ -41,29 +41,29 @@ text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #1
 <rect x="354" y="140" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="360" y="153" class="k">D</text>
 <text x="406.0" y="179.0" class="s" text-anchor="middle">Strafe →</text>
-<rect x="464" y="140" width="104" height="62" rx="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+<rect x="464" y="140" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
 <text x="470" y="153" class="k">F</text>
-<text x="516.0" y="171.5" class="s" text-anchor="middle">Seal of the</text>
-<text x="516.0" y="186.5" class="s" text-anchor="middle">Crusader</text>
-<rect x="24" y="208" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<text x="516.0" y="171.5" class="s" text-anchor="middle">Holy</text>
+<text x="516.0" y="186.5" class="s" text-anchor="middle">Light</text>
+<rect x="24" y="208" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
 <text x="30" y="221" class="k">2</text>
-<text x="76.0" y="247.0" class="s" text-anchor="middle">Purify</text>
-<rect x="134" y="208" width="104" height="62" rx="7" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="76.0" y="239.5" class="s" text-anchor="middle">Blessing</text>
+<text x="76.0" y="254.5" class="s" text-anchor="middle">of Might</text>
+<rect x="134" y="208" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
 <text x="140" y="221" class="k">Z</text>
-<text x="186.0" y="239.5" class="s" text-anchor="middle">Hammer of</text>
-<text x="186.0" y="254.5" class="s" text-anchor="middle">Justice</text>
-<rect x="244" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="186.0" y="247.0" class="s" text-anchor="middle">Purify</text>
+<rect x="244" y="208" width="104" height="62" rx="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
 <text x="250" y="221" class="k">X</text>
-<text x="296.0" y="239.5" class="s" text-anchor="middle">lvl 44:</text>
-<text x="296.0" y="254.5" class="s" text-anchor="middle">Ham. Wrath</text>
-<rect x="354" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="296.0" y="239.5" class="s" text-anchor="middle">Seal of the</text>
+<text x="296.0" y="254.5" class="s" text-anchor="middle">Crusader</text>
+<rect x="354" y="208" width="104" height="62" rx="7" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
 <text x="360" y="221" class="k">C</text>
-<text x="406.0" y="239.5" class="s" text-anchor="middle">talent:</text>
-<text x="406.0" y="254.5" class="s" text-anchor="middle">Consecr.</text>
-<rect x="464" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="406.0" y="239.5" class="s" text-anchor="middle">Hammer of</text>
+<text x="406.0" y="254.5" class="s" text-anchor="middle">Justice</text>
+<rect x="464" y="208" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
 <text x="470" y="221" class="k">V</text>
-<text x="516.0" y="239.5" class="s" text-anchor="middle">lvl 20:</text>
-<text x="516.0" y="254.5" class="s" text-anchor="middle">Exorcism</text>
+<text x="516.0" y="239.5" class="s" text-anchor="middle">Divine</text>
+<text x="516.0" y="254.5" class="s" text-anchor="middle">Protection</text>
 <rect x="244" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="250" y="297" class="k">SHIFT</text>
 <text x="296.0" y="315.5" class="s" text-anchor="middle">hold for</text>
@@ -132,17 +132,19 @@ text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #1
 <text x="24" y="428" class="sub">Same keys with Shift held. Empty slots are room to grow.</text>
 <rect x="24" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="30" y="453" class="k">S-TAB</text>
-<rect x="134" y="440" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="134" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="140" y="453" class="k">S-Q</text>
-<text x="186.0" y="471.5" class="s" text-anchor="middle">Divine</text>
-<text x="186.0" y="486.5" class="s" text-anchor="middle">Protection</text>
 <rect x="244" y="440" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="250" y="453" class="k">W</text>
 <text x="296.0" y="479.0" class="s" text-anchor="middle">Forward</text>
 <rect x="354" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="360" y="453" class="k">S-E</text>
+<text x="406.0" y="471.5" class="s" text-anchor="middle">talent:</text>
+<text x="406.0" y="486.5" class="s" text-anchor="middle">Seal of Cmd</text>
 <rect x="464" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="470" y="453" class="k">S-R</text>
+<text x="516.0" y="471.5" class="s" text-anchor="middle">lvl 20:</text>
+<text x="516.0" y="486.5" class="s" text-anchor="middle">Exorcism</text>
 <rect x="24" y="508" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="30" y="521" class="k">S-1</text>
 <rect x="134" y="508" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
@@ -156,16 +158,24 @@ text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #1
 <text x="406.0" y="547.0" class="s" text-anchor="middle">Strafe →</text>
 <rect x="464" y="508" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="470" y="521" class="k">S-F</text>
+<text x="516.0" y="539.5" class="s" text-anchor="middle">lvl 20:</text>
+<text x="516.0" y="554.5" class="s" text-anchor="middle">Flash of Light</text>
 <rect x="24" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="30" y="589" class="k">S-2</text>
+<text x="76.0" y="607.5" class="s" text-anchor="middle">lvl 14: Bless.</text>
+<text x="76.0" y="622.5" class="s" text-anchor="middle">of Wisdom</text>
 <rect x="134" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="140" y="589" class="k">S-Z</text>
 <rect x="244" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="250" y="589" class="k">S-X</text>
 <rect x="354" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="360" y="589" class="k">S-C</text>
+<text x="406.0" y="607.5" class="s" text-anchor="middle">lvl 44:</text>
+<text x="406.0" y="622.5" class="s" text-anchor="middle">Ham. Wrath</text>
 <rect x="464" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="470" y="589" class="k">S-V</text>
+<text x="516.0" y="607.5" class="s" text-anchor="middle">talent:</text>
+<text x="516.0" y="622.5" class="s" text-anchor="middle">Consecr.</text>
 <rect x="244" y="652" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="250" y="665" class="k">SHIFT</text>
 <text x="296.0" y="691.0" class="s" text-anchor="middle">held</text>
@@ -188,12 +198,11 @@ text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #1
 <text x="296.0" y="847.0" class="s" text-anchor="middle">Forward</text>
 <rect x="354" y="808" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
 <text x="360" y="821" class="k">4</text>
-<text x="406.0" y="839.5" class="s" text-anchor="middle">Blessing</text>
-<text x="406.0" y="854.5" class="s" text-anchor="middle">of Might</text>
+<text x="406.0" y="839.5" class="s" text-anchor="middle">Devotion</text>
+<text x="406.0" y="854.5" class="s" text-anchor="middle">Aura</text>
 <rect x="464" y="808" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
 <text x="470" y="821" class="k">5</text>
-<text x="516.0" y="839.5" class="s" text-anchor="middle">Devotion</text>
-<text x="516.0" y="854.5" class="s" text-anchor="middle">Aura</text>
+<text x="516.0" y="847.0" class="s" text-anchor="middle">Cannibalize</text>
 <rect x="24" y="876" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="30" y="889" class="k">CHAT</text>
 <text x="76.0" y="907.5" class="s" text-anchor="middle">Enter +</text>
@@ -209,23 +218,27 @@ text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #1
 <text x="406.0" y="915.0" class="s" text-anchor="middle">Strafe →</text>
 <rect x="464" y="876" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
 <text x="470" y="889" class="k">6</text>
-<text x="516.0" y="915.0" class="s" text-anchor="middle">Cannibalize</text>
+<text x="516.0" y="915.0" class="s" text-anchor="middle">Hearth</text>
 <rect x="24" y="944" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
 <text x="30" y="957" class="k">ESC</text>
 <text x="76.0" y="975.5" class="s" text-anchor="middle">Close /</text>
 <text x="76.0" y="990.5" class="s" text-anchor="middle">menu</text>
-<rect x="134" y="944" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
-<text x="140" y="957" class="k">8</text>
-<text x="186.0" y="983.0" class="s" text-anchor="middle">Mount</text>
-<rect x="244" y="944" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
-<text x="250" y="957" class="k">9</text>
-<text x="296.0" y="983.0" class="s" text-anchor="middle">Hearth</text>
-<rect x="354" y="944" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
-<text x="360" y="957" class="k">0</text>
-<text x="406.0" y="975.5" class="s" text-anchor="middle">Food /</text>
-<text x="406.0" y="990.5" class="s" text-anchor="middle">drink</text>
+<rect x="134" y="944" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="140" y="957" class="k">7</text>
+<text x="186.0" y="975.5" class="s" text-anchor="middle">lvl 40:</text>
+<text x="186.0" y="990.5" class="s" text-anchor="middle">Mount</text>
+<rect x="244" y="944" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="250" y="957" class="k">8</text>
+<text x="296.0" y="975.5" class="s" text-anchor="middle">lvl 12:</text>
+<text x="296.0" y="990.5" class="s" text-anchor="middle">Redemption</text>
+<rect x="354" y="944" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="360" y="957" class="k">9</text>
+<text x="406.0" y="975.5" class="s" text-anchor="middle">lvl 16:</text>
+<text x="406.0" y="990.5" class="s" text-anchor="middle">Ret. Aura</text>
 <rect x="464" y="944" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="470" y="957" class="k">-</text>
+<text x="470" y="957" class="k">0</text>
+<text x="516.0" y="975.5" class="s" text-anchor="middle">lvl 16: Right.</text>
+<text x="516.0" y="990.5" class="s" text-anchor="middle">Fury</text>
 <rect x="244" y="1020" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="250" y="1033" class="k">—</text>
 <rect x="354" y="1020" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>

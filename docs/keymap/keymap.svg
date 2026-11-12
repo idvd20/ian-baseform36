@@ -2124,19 +2124,19 @@ rect.ghost, rect.combo.ghost { display: none; }
 </g>
 <g transform="translate(130, 168)" class="key keypos-38">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">8</text>
+<text x="0" y="0" class="key tap">7</text>
 </g>
 <g transform="translate(182, 168)" class="key keypos-39">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">9</text>
+<text x="0" y="0" class="key tap">8</text>
 </g>
 <g transform="translate(234, 168)" class="key keypos-40">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">0</text>
+<text x="0" y="0" class="key tap">9</text>
 </g>
 <g transform="translate(286, 168)" class="key keypos-41">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key"/>
-<text x="0" y="0" class="key tap">-</text>
+<text x="0" y="0" class="key tap">0</text>
 </g>
 <g transform="translate(368, 168)" class="key trans keypos-42">
 <rect rx="6" ry="6" x="-24" y="-22" width="48" height="44" class="key trans"/>

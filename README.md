@@ -38,7 +38,7 @@ GAME
 GFN (right half same as GAME)
  EXIT   3      W      4      5
  CHAT   A      S      D      6
- ESC    8      9      0      -
+ ESC    7      8      9      0
         -      [held] SPACE
 ```
 

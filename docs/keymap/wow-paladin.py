@@ -20,8 +20,8 @@ ROLES = {
 # (key label, spell, role); "\n" splits lines
 GAME_L = [
     [("TAB", "Target\nenemy", "cc"), ("Q", "Judgement", "rot"), ("W", "Forward", "move"), ("E", "Seal of\nRighteous.", "rot"), ("R", "Holy\nStrike", "rot")],
-    [("1", "Holy\nLight", "heal"), ("A", "Strafe ←", "move"), ("S", "Back", "move"), ("D", "Strafe →", "move"), ("F", "Seal of the\nCrusader", "rot")],
-    [("2", "Purify", "heal"), ("Z", "Hammer of\nJustice", "cc"), ("X", "lvl 44:\nHam. Wrath", "free"), ("C", "talent:\nConsecr.", "free"), ("V", "lvl 20:\nExorcism", "free")],
+    [("1", "Food /\ndrink", "buff"), ("A", "Strafe ←", "move"), ("S", "Back", "move"), ("D", "Strafe →", "move"), ("F", "Holy\nLight", "heal")],
+    [("2", "Blessing\nof Might", "buff"), ("Z", "Purify", "heal"), ("X", "Seal of the\nCrusader", "rot"), ("C", "Hammer of\nJustice", "cc"), ("V", "Divine\nProtection", "heal")],
 ]
 GAME_LT = [("SHIFT", "hold for\nShift tier", "move"), ("GFN", "hold for\nGFN tier", "move"), ("SPACE", "Jump", "move")]
 
@@ -33,16 +33,16 @@ GAME_R = [
 GAME_RT = [("CHAT", "Enter +\nexit game", "move"), ("SPACE", "Jump", "move"), ("ESC", "Close /\nmenu", "move")]
 
 SHIFT_L = [
-    [("S-TAB", "", "free"), ("S-Q", "Divine\nProtection", "heal"), ("W", "Forward", "move"), ("S-E", "", "free"), ("S-R", "", "free")],
-    [("S-1", "", "free"), ("A", "Strafe ←", "move"), ("S", "Back", "move"), ("D", "Strafe →", "move"), ("S-F", "", "free")],
-    [("S-2", "", "free"), ("S-Z", "", "free"), ("S-X", "", "free"), ("S-C", "", "free"), ("S-V", "", "free")],
+    [("S-TAB", "", "free"), ("S-Q", "", "free"), ("W", "Forward", "move"), ("S-E", "talent:\nSeal of Cmd", "free"), ("S-R", "lvl 20:\nExorcism", "free")],
+    [("S-1", "", "free"), ("A", "Strafe ←", "move"), ("S", "Back", "move"), ("D", "Strafe →", "move"), ("S-F", "lvl 20:\nFlash of Light", "free")],
+    [("S-2", "lvl 14: Bless.\nof Wisdom", "free"), ("S-Z", "", "free"), ("S-X", "", "free"), ("S-C", "lvl 44:\nHam. Wrath", "free"), ("S-V", "talent:\nConsecr.", "free")],
 ]
 SHIFT_LT = [("SHIFT", "held", "move"), ("—", "", "free"), ("—", "", "free")]
 
 GFN_L = [
-    [("EXIT", "Leave\ngame mode", "move"), ("3", "Lay on\nHands", "heal"), ("W", "Forward", "move"), ("4", "Blessing\nof Might", "buff"), ("5", "Devotion\nAura", "buff")],
-    [("CHAT", "Enter +\nexit game", "move"), ("A", "Strafe ←", "move"), ("S", "Back", "move"), ("D", "Strafe →", "move"), ("6", "Cannibalize", "buff")],
-    [("ESC", "Close /\nmenu", "move"), ("8", "Mount", "buff"), ("9", "Hearth", "buff"), ("0", "Food /\ndrink", "buff"), ("-", "", "free")],
+    [("EXIT", "Leave\ngame mode", "move"), ("3", "Lay on\nHands", "heal"), ("W", "Forward", "move"), ("4", "Devotion\nAura", "buff"), ("5", "Cannibalize", "buff")],
+    [("CHAT", "Enter +\nexit game", "move"), ("A", "Strafe ←", "move"), ("S", "Back", "move"), ("D", "Strafe →", "move"), ("6", "Hearth", "buff")],
+    [("ESC", "Close /\nmenu", "move"), ("7", "lvl 40:\nMount", "free"), ("8", "lvl 12:\nRedemption", "free"), ("9", "lvl 16:\nRet. Aura", "free"), ("0", "lvl 16: Right.\nFury", "free")],
 ]
 GFN_LT = [("—", "", "free"), ("GFN", "held", "move"), ("SPACE", "Jump", "move")]
 
