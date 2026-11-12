@@ -42,6 +42,11 @@ GFN (right half same as GAME)
         -      [held] SPACE
 ```
 
+### Paladin binds
+
+Where each spell sits on the game layers (undead paladin, level 10). Edit the tables in `docs/keymap/wow-paladin.py` as you learn spells, then run `python3 docs/keymap/wow-paladin.py` to redraw it.
+
+![WoW paladin binds](docs/keymap/wow-paladin.svg)
 
 ## Paired nvim config
 

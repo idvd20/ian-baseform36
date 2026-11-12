@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1172" height="1192" viewBox="0 0 1172 1192">
+<style>
+text { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; fill: #111827; }
+.h { font-size: 17px; font-weight: 700; }
+.h2 { font-size: 14px; font-weight: 700; }
+.sub { font-size: 12px; fill: #4b5563; }
+.k { font-size: 10px; font-weight: 700; fill: #6b7280; }
+.s { font-size: 12.5px; }
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="42" class="h">GAME — tap Q+W+F</text>
+<text x="24" y="60" class="sub">Left hand on the keyboard. Right half = WoW windows when your hand leaves the mouse.</text>
+<rect x="24" y="72" width="104" height="62" rx="7" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="30" y="85" class="k">TAB</text>
+<text x="76.0" y="103.5" class="s" text-anchor="middle">Target</text>
+<text x="76.0" y="118.5" class="s" text-anchor="middle">enemy</text>
+<rect x="134" y="72" width="104" height="62" rx="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+<text x="140" y="85" class="k">Q</text>
+<text x="186.0" y="111.0" class="s" text-anchor="middle">Judgement</text>
+<rect x="244" y="72" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="85" class="k">W</text>
+<text x="296.0" y="111.0" class="s" text-anchor="middle">Forward</text>
+<rect x="354" y="72" width="104" height="62" rx="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+<text x="360" y="85" class="k">E</text>
+<text x="406.0" y="103.5" class="s" text-anchor="middle">Seal of</text>
+<text x="406.0" y="118.5" class="s" text-anchor="middle">Righteous.</text>
+<rect x="464" y="72" width="104" height="62" rx="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+<text x="470" y="85" class="k">R</text>
+<text x="516.0" y="103.5" class="s" text-anchor="middle">Holy</text>
+<text x="516.0" y="118.5" class="s" text-anchor="middle">Strike</text>
+<rect x="24" y="140" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<text x="30" y="153" class="k">1</text>
+<text x="76.0" y="171.5" class="s" text-anchor="middle">Holy</text>
+<text x="76.0" y="186.5" class="s" text-anchor="middle">Light</text>
+<rect x="134" y="140" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="140" y="153" class="k">A</text>
+<text x="186.0" y="179.0" class="s" text-anchor="middle">Strafe ←</text>
+<rect x="244" y="140" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="153" class="k">S</text>
+<text x="296.0" y="179.0" class="s" text-anchor="middle">Back</text>
+<rect x="354" y="140" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="360" y="153" class="k">D</text>
+<text x="406.0" y="179.0" class="s" text-anchor="middle">Strafe →</text>
+<rect x="464" y="140" width="104" height="62" rx="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+<text x="470" y="153" class="k">F</text>
+<text x="516.0" y="171.5" class="s" text-anchor="middle">Seal of the</text>
+<text x="516.0" y="186.5" class="s" text-anchor="middle">Crusader</text>
+<rect x="24" y="208" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<text x="30" y="221" class="k">2</text>
+<text x="76.0" y="247.0" class="s" text-anchor="middle">Purify</text>
+<rect x="134" y="208" width="104" height="62" rx="7" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="140" y="221" class="k">Z</text>
+<text x="186.0" y="239.5" class="s" text-anchor="middle">Hammer of</text>
+<text x="186.0" y="254.5" class="s" text-anchor="middle">Justice</text>
+<rect x="244" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="250" y="221" class="k">X</text>
+<text x="296.0" y="239.5" class="s" text-anchor="middle">lvl 44:</text>
+<text x="296.0" y="254.5" class="s" text-anchor="middle">Ham. Wrath</text>
+<rect x="354" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="360" y="221" class="k">C</text>
+<text x="406.0" y="239.5" class="s" text-anchor="middle">talent:</text>
+<text x="406.0" y="254.5" class="s" text-anchor="middle">Consecr.</text>
+<rect x="464" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="470" y="221" class="k">V</text>
+<text x="516.0" y="239.5" class="s" text-anchor="middle">lvl 20:</text>
+<text x="516.0" y="254.5" class="s" text-anchor="middle">Exorcism</text>
+<rect x="244" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="297" class="k">SHIFT</text>
+<text x="296.0" y="315.5" class="s" text-anchor="middle">hold for</text>
+<text x="296.0" y="330.5" class="s" text-anchor="middle">Shift tier</text>
+<rect x="354" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="360" y="297" class="k">GFN</text>
+<text x="406.0" y="315.5" class="s" text-anchor="middle">hold for</text>
+<text x="406.0" y="330.5" class="s" text-anchor="middle">GFN tier</text>
+<rect x="464" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="470" y="297" class="k">SPACE</text>
+<text x="516.0" y="323.0" class="s" text-anchor="middle">Jump</text>
+<rect x="604" y="72" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="610" y="85" class="k">J</text>
+<rect x="714" y="72" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="720" y="85" class="k">L</text>
+<text x="766.0" y="103.5" class="s" text-anchor="middle">Quest</text>
+<text x="766.0" y="118.5" class="s" text-anchor="middle">log</text>
+<rect x="824" y="72" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="830" y="85" class="k">U</text>
+<text x="876.0" y="111.0" class="s" text-anchor="middle">Reputation</text>
+<rect x="934" y="72" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="940" y="85" class="k">Y</text>
+<rect x="1044" y="72" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="1050" y="85" class="k">P</text>
+<text x="1096.0" y="111.0" class="s" text-anchor="middle">Spellbook</text>
+<rect x="604" y="140" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="610" y="153" class="k">M</text>
+<text x="656.0" y="179.0" class="s" text-anchor="middle">Map</text>
+<rect x="714" y="140" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="720" y="153" class="k">N</text>
+<text x="766.0" y="179.0" class="s" text-anchor="middle">Talents</text>
+<rect x="824" y="140" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="830" y="153" class="k">B</text>
+<text x="876.0" y="179.0" class="s" text-anchor="middle">Bags</text>
+<rect x="934" y="140" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="940" y="153" class="k">I</text>
+<rect x="1044" y="140" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="1050" y="153" class="k">O</text>
+<text x="1096.0" y="179.0" class="s" text-anchor="middle">Social</text>
+<rect x="604" y="208" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="610" y="221" class="k">K</text>
+<text x="656.0" y="247.0" class="s" text-anchor="middle">Skills</text>
+<rect x="714" y="208" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="720" y="221" class="k">H</text>
+<text x="766.0" y="247.0" class="s" text-anchor="middle">Honor</text>
+<rect x="824" y="208" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="830" y="221" class="k">G</text>
+<text x="876.0" y="247.0" class="s" text-anchor="middle">Character</text>
+<rect x="934" y="208" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="940" y="221" class="k">.</text>
+<rect x="1044" y="208" width="104" height="62" rx="7" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+<text x="1050" y="221" class="k">/</text>
+<text x="1096.0" y="247.0" class="s" text-anchor="middle">/ chat</text>
+<rect x="604" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="610" y="297" class="k">CHAT</text>
+<text x="656.0" y="315.5" class="s" text-anchor="middle">Enter +</text>
+<text x="656.0" y="330.5" class="s" text-anchor="middle">exit game</text>
+<rect x="714" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="720" y="297" class="k">SPACE</text>
+<text x="766.0" y="323.0" class="s" text-anchor="middle">Jump</text>
+<rect x="824" y="284" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="830" y="297" class="k">ESC</text>
+<text x="876.0" y="315.5" class="s" text-anchor="middle">Close /</text>
+<text x="876.0" y="330.5" class="s" text-anchor="middle">menu</text>
+<text x="24" y="410" class="h">SHIFT tier — hold left outer thumb</text>
+<text x="24" y="428" class="sub">Same keys with Shift held. Empty slots are room to grow.</text>
+<rect x="24" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="30" y="453" class="k">S-TAB</text>
+<rect x="134" y="440" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<text x="140" y="453" class="k">S-Q</text>
+<text x="186.0" y="471.5" class="s" text-anchor="middle">Divine</text>
+<text x="186.0" y="486.5" class="s" text-anchor="middle">Protection</text>
+<rect x="244" y="440" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="453" class="k">W</text>
+<text x="296.0" y="479.0" class="s" text-anchor="middle">Forward</text>
+<rect x="354" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="360" y="453" class="k">S-E</text>
+<rect x="464" y="440" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="470" y="453" class="k">S-R</text>
+<rect x="24" y="508" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="30" y="521" class="k">S-1</text>
+<rect x="134" y="508" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="140" y="521" class="k">A</text>
+<text x="186.0" y="547.0" class="s" text-anchor="middle">Strafe ←</text>
+<rect x="244" y="508" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="521" class="k">S</text>
+<text x="296.0" y="547.0" class="s" text-anchor="middle">Back</text>
+<rect x="354" y="508" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="360" y="521" class="k">D</text>
+<text x="406.0" y="547.0" class="s" text-anchor="middle">Strafe →</text>
+<rect x="464" y="508" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="470" y="521" class="k">S-F</text>
+<rect x="24" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="30" y="589" class="k">S-2</text>
+<rect x="134" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="140" y="589" class="k">S-Z</text>
+<rect x="244" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="250" y="589" class="k">S-X</text>
+<rect x="354" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="360" y="589" class="k">S-C</text>
+<rect x="464" y="576" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="470" y="589" class="k">S-V</text>
+<rect x="244" y="652" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="665" class="k">SHIFT</text>
+<text x="296.0" y="691.0" class="s" text-anchor="middle">held</text>
+<rect x="354" y="652" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="360" y="665" class="k">—</text>
+<rect x="464" y="652" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="470" y="665" class="k">—</text>
+<text x="24" y="778" class="h">GFN tier — hold left middle thumb</text>
+<text x="24" y="796" class="sub">Situational spells, buffs and travel. Movement keys still work.</text>
+<rect x="24" y="808" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="30" y="821" class="k">EXIT</text>
+<text x="76.0" y="839.5" class="s" text-anchor="middle">Leave</text>
+<text x="76.0" y="854.5" class="s" text-anchor="middle">game mode</text>
+<rect x="134" y="808" width="104" height="62" rx="7" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<text x="140" y="821" class="k">3</text>
+<text x="186.0" y="839.5" class="s" text-anchor="middle">Lay on</text>
+<text x="186.0" y="854.5" class="s" text-anchor="middle">Hands</text>
+<rect x="244" y="808" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="821" class="k">W</text>
+<text x="296.0" y="847.0" class="s" text-anchor="middle">Forward</text>
+<rect x="354" y="808" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="360" y="821" class="k">4</text>
+<text x="406.0" y="839.5" class="s" text-anchor="middle">Blessing</text>
+<text x="406.0" y="854.5" class="s" text-anchor="middle">of Might</text>
+<rect x="464" y="808" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="470" y="821" class="k">5</text>
+<text x="516.0" y="839.5" class="s" text-anchor="middle">Devotion</text>
+<text x="516.0" y="854.5" class="s" text-anchor="middle">Aura</text>
+<rect x="24" y="876" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="30" y="889" class="k">CHAT</text>
+<text x="76.0" y="907.5" class="s" text-anchor="middle">Enter +</text>
+<text x="76.0" y="922.5" class="s" text-anchor="middle">exit game</text>
+<rect x="134" y="876" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="140" y="889" class="k">A</text>
+<text x="186.0" y="915.0" class="s" text-anchor="middle">Strafe ←</text>
+<rect x="244" y="876" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="250" y="889" class="k">S</text>
+<text x="296.0" y="915.0" class="s" text-anchor="middle">Back</text>
+<rect x="354" y="876" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="360" y="889" class="k">D</text>
+<text x="406.0" y="915.0" class="s" text-anchor="middle">Strafe →</text>
+<rect x="464" y="876" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="470" y="889" class="k">6</text>
+<text x="516.0" y="915.0" class="s" text-anchor="middle">Cannibalize</text>
+<rect x="24" y="944" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="30" y="957" class="k">ESC</text>
+<text x="76.0" y="975.5" class="s" text-anchor="middle">Close /</text>
+<text x="76.0" y="990.5" class="s" text-anchor="middle">menu</text>
+<rect x="134" y="944" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="140" y="957" class="k">8</text>
+<text x="186.0" y="983.0" class="s" text-anchor="middle">Mount</text>
+<rect x="244" y="944" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="250" y="957" class="k">9</text>
+<text x="296.0" y="983.0" class="s" text-anchor="middle">Hearth</text>
+<rect x="354" y="944" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="360" y="957" class="k">0</text>
+<text x="406.0" y="975.5" class="s" text-anchor="middle">Food /</text>
+<text x="406.0" y="990.5" class="s" text-anchor="middle">drink</text>
+<rect x="464" y="944" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="470" y="957" class="k">-</text>
+<rect x="244" y="1020" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="250" y="1033" class="k">—</text>
+<rect x="354" y="1020" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="360" y="1033" class="k">GFN</text>
+<text x="406.0" y="1059.0" class="s" text-anchor="middle">held</text>
+<rect x="464" y="1020" width="104" height="62" rx="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="470" y="1033" class="k">SPACE</text>
+<text x="516.0" y="1059.0" class="s" text-anchor="middle">Jump</text>
+<text x="604" y="821" class="h2">Mouse side buttons</text>
+<rect x="604" y="830" width="104" height="62" rx="7" fill="#e9d5ff" stroke="#7e22ce" stroke-width="1.5"/>
+<text x="610" y="843" class="k">Button4</text>
+<text x="656.0" y="861.5" class="s" text-anchor="middle">Will of the</text>
+<text x="656.0" y="876.5" class="s" text-anchor="middle">Forsaken</text>
+<rect x="714" y="830" width="104" height="62" rx="7" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="720" y="843" class="k">Button5</text>
+<text x="604" y="920" class="h2">Colors</text>
+<rect x="604" y="932" width="16" height="16" rx="3" fill="#fde68a" stroke="#b45309"/>
+<text x="628" y="945" class="s">Rotation</text>
+<rect x="604" y="954" width="16" height="16" rx="3" fill="#bbf7d0" stroke="#15803d"/>
+<text x="628" y="967" class="s">Heals / defensive</text>
+<rect x="604" y="976" width="16" height="16" rx="3" fill="#bfdbfe" stroke="#1d4ed8"/>
+<text x="628" y="989" class="s">Control / target</text>
+<rect x="604" y="998" width="16" height="16" rx="3" fill="#e9d5ff" stroke="#7e22ce"/>
+<text x="628" y="1011" class="s">Buffs / racial / travel</text>
+<rect x="604" y="1020" width="16" height="16" rx="3" fill="#e5e7eb" stroke="#4b5563"/>
+<text x="628" y="1033" class="s">WoW windows</text>
+<rect x="604" y="1042" width="16" height="16" rx="3" fill="#f3f4f6" stroke="#9ca3af"/>
+<text x="628" y="1055" class="s">Movement / mode</text>
+<rect x="604" y="1064" width="16" height="16" rx="3" fill="#ffffff" stroke="#d1d5db"/>
+<text x="628" y="1077" class="s">Empty, fills as you level</text>
+</svg>
